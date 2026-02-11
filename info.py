@@ -10,9 +10,9 @@ def str_to_bool(val):
 # ᴄʀᴇᴅɪᴛ   : ᴀᴠ ʙᴏᴛᴢ | ᴀᴍᴀɴ ᴠɪsʜᴡᴀᴋᴀʀᴍᴀ
 # ────────────────────────────────────────
 
-API_ID = int(environ.get('API_ID', '12380656'))
-API_HASH = environ.get('API_HASH', 'd927c13beaaf5110f25c505b7c071273')
-BOT_TOKEN = environ.get("BOT_TOKEN", "8544679448:AAFWldQobm7UhOqH7WPZvup1FaSc9bulEWk")
+API_ID = int(environ.get('API_ID', '80656'))
+API_HASH = environ.get('API_HASH', 'd927c13beaaf5110f27c071273')
+BOT_TOKEN = environ.get("BOT_TOKEN", "85449448:AAFWldQobm7UhOqH7WPFaSc9bulEWk")
 PORT = environ.get("PORT", "8080")
 START_PIC = environ.get("START_PIC", "https://o.uguu.se/eKNoswZZ.jpg")
 
@@ -25,7 +25,7 @@ START_PIC = environ.get("START_PIC", "https://o.uguu.se/eKNoswZZ.jpg")
 
 ADMINS = list(map(int, environ.get("ADMINS", "5977931010").split()))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002110971750"))
-DB_URL = environ.get('DATABASE_URI', "mongodb+srv://IMG-TO-LINK-BOT:IMG-TO-LINK-BOT@cluster0.uq1rr6x.mongodb.net/?appName=Cluster0")
+DB_URL = environ.get('DATABASE_URI', "mongodb+srv://-TOT:IMGT@cluster0.1rr6x.mongodb.net/?appName=Cluster0")
 
 # ── ᴀᴠ ʙᴏᴛᴢ ─────────────────────────────
 # ᴜᴘᴅᴀᴛᴇs  : https://t.me/AV_BOTz_UPDATE
@@ -41,3 +41,4 @@ AUTH_PICS = environ.get("AUTH_PICS", "https://files.catbox.moe/facpku.jpg")
 CHANNEL = environ.get("CHANNEL", "https://t.me/AV_BOTz_UPDATE")
 SUPPORT = environ.get("SUPPORT", "https://t.me/AV_SUPPORT_GROUP")
 APP_URL = environ.get("APP_URL", "https://manual-nikolia-totzvvv-5115e05f.koyeb.app/")
+
