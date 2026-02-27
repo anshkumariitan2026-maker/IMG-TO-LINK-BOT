@@ -14,9 +14,9 @@ class script(object):
 ⚡️ ғᴀsᴛ ᴜᴘʟᴏᴀᴅs
 🔗 ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋs
 🛡️ sᴇᴄᴜʀᴇ & ᴘʀɪᴠᴀᴛᴇ
-🖥️ ᴡᴇʙsɪᴛᴇ : <a href='{}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+🖥️ ᴡᴇʙsɪᴛᴇ : <a href='https://careless-coder95.github.io/Careless-coder/'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/AV_OWNER_BOT'>ᴀᴍᴀɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>"""
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/CarelessxOwner'>sᴛᴀʀᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>"""
     
 
     # ── ᴀᴠ ʙᴏᴛᴢ ─────────────────────────────
@@ -63,15 +63,15 @@ class script(object):
     
     ABOUT_TXT = """<b>╭─━━━ ✦ ᴀʙᴏᴜᴛ ʙᴏᴛ ✦ ━━━─╮
 │
-│ 🤖 ɴᴀᴍᴇ : <code>{}</code>
-│ 👑 ᴏᴡɴᴇʀ : <a href="https://t.me/AV_OWNER_BOT">ᴀᴍᴀɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
-│ 📢 ᴜᴘᴅᴀᴛᴇs : <a href="https://t.me/AV_BOTz_UPDATE">ᴀᴠ ʙᴏᴛᴢ</a>
+│ 🤖 ɴᴀᴍᴇ : ᴍɪsᴛᴇʀ sᴛᴀʀᴋ
+│ 👑 ᴏᴡɴᴇʀ : <a href="https://t.me/CarelessxOwner">ᴀᴍᴀɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
+│ 📢 ᴜᴘᴅᴀᴛᴇs : <a href="https://t.me/ll_CarelessxCoder_ll">˹ᴄᴀʀᴇʟᴇss ꭙ ᴄᴏᴅᴇʀ˼ </a>
 │ 🚀 ᴠᴇʀsɪᴏɴ : v2.6
 │ 🐍 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 3
 │ 📚 ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
-│ 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ
+│ 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ᴠᴘs
 │
-╰─━━━ ✦ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴠ ʙᴏᴛᴢ ✦ ━━━─╯</b>"""
+╰─━━━ ✦ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ˹ᴄᴀʀᴇʟᴇss ꭙ ᴄᴏᴅᴇʀ˼  ✦ ━━━─╯</b>"""
 
     LOG_TEXT = """<b>#NewUser {}
     
